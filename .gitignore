@@ -1,0 +1,14 @@
+# Generated reports (contain production data)
+canary_report_*.xlsx
+canary_report_*.csv
+canary_report_*_email.html
+*_email.html
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local notes
+notes
